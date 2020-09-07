@@ -38,7 +38,7 @@ View auswahl. Alle (auch selber erstellte Views) lassen sich links finden und k�
 
 * Command Pad. Alle Funktionen werden darüber durch anklicken ausgewählt. Für die meisten Funktionen gibt es auch **Shortcuts**.
 
-* ![Encoder](Pics/3_Encoder.png)
+* ![Encoder](Pics/3_Encoder.PNG)
 
   * Die vier Quadrate repräsentiern 4 Encoder. 
 
