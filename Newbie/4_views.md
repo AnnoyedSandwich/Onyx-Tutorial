@@ -17,7 +17,7 @@ um neuen View zu erstellen, auf freies Feld in der Sidebar drücken, um bestehen
 
     >> "None" >> "Add New Empty Screen"
 
-![newView](Pics/4_newView.png)
+![newView](Pics/4_newView.PNG)
 
 * "New View" erstellt einen neuen View
 * "Safe View" speichert ausgewählten View 
