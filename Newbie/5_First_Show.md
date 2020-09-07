@@ -9,7 +9,7 @@ Links stehen verschieden Optionen, für den Anfang reicht Patch
 In der Mitte stehen bereits gepatchte Scheinwerfer. Rechts kann man nach gepatchen Fixtures filtern und Optionen ändern.
 
 Das wichtigste: das Actions Menu
-![Actions](../Pics/5_Actions.PNG)
+![Actions](Pics/5_Actions.PNG)
 
 Unter *Commands* findet man alle Commands die mit dem Patchen bzw editierne von Fixtures zu tun haben. 
 Alle funktionieren ungefähr nach dem gleichen Prinzip und wie sie genau funktionierne kann man am CommandLine Befehl sehen.
