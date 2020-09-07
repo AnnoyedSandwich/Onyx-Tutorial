@@ -13,11 +13,11 @@ Weg um eigene Views zu erstellen/editieren
 
 um neuen View zu erstellen, auf freies Feld in der Sidebar drücken, um bestehenden View zu editiern auf den entsprechenden view rechtklick drücken:
 
-![Views](../Pics/4_Views.png)
+![Views](Pics/4_Views.PNG)
 
     >> "None" >> "Add New Empty Screen"
 
-![newView](../Pics/4_newView.png)
+![newView](Pics/4_newView.png)
 
 * "New View" erstellt einen neuen View
 * "Safe View" speichert ausgewählten View 
@@ -39,7 +39,7 @@ Nachdem View erstelle wurde speichern
 Auch wenn stock Views von Onyx nutzbar sind, eigene Views mit verschiedenen Funktionen die man parallel braucht erhöhen Workflow
 
 Beispiel
-![Custom](../Pics/4_customView.png)
+![Custom](Pics/4_customView.png)
 
 Alle wichtigen Fenster zum erstellen von Cuelisten wurden zu einen View hinzugefügt
 #
@@ -71,7 +71,7 @@ Um die Funktion der F-Tasten bzw. der Function Keys einzustellen:
 
     >> "Monitor Icon" >> "Onyx Menu" >> Funtions
 
-![F-Keys](../Pics/4_fKeys.png)
+![F-Keys](Pics/4_fKeys.png)
 
 Man kann alle möglichen Commands, Views, Gruppen etc zuweisen. Einfach Ausprobieren was und ob man das braucht.
 #
