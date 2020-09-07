@@ -2,7 +2,7 @@
 
 Nach dem erstellen einer neune Schow sieht Onyx so aus:
 
-![Sidebar](Pics/../../Pics/Interface.png)
+![Sidebar](Pics/3_Interface.PNG)
 
 Erklährungen der einzelnen Sachen (von Links nach Rechts)
 
