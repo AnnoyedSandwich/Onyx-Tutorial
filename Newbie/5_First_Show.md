@@ -3,13 +3,13 @@
 ## Patching
     >> Onyx Menu >> Patch
 
-![Patch](Pics/5_patchFirst.png)
+![Patch](Pics/5_patchFirst.PNG)
 
 Links stehen verschieden Optionen, für den Anfang reicht Patch
 In der Mitte stehen bereits gepatchte Scheinwerfer. Rechts kann man nach gepatchen Fixtures filtern und Optionen ändern.
 
 Das wichtigste: das Actions Menu
-![Actions](../Pics/5_Actions.png)
+![Actions](../Pics/5_Actions.PNG)
 
 Unter *Commands* findet man alle Commands die mit dem Patchen bzw editierne von Fixtures zu tun haben. 
 Alle funktionieren ungefähr nach dem gleichen Prinzip und wie sie genau funktionierne kann man am CommandLine Befehl sehen.
@@ -23,7 +23,7 @@ allternativ
     >> Choose Type
 
 Danach öffnet sich folgendes Fenster:
-![new](Pics/5_newFixture.png)
+![new](Pics/5_newFixture.PNG)
 
 * "selected Manufacturer*: alle Möglichen Hersteller, außerdem "Generic" für LED PARs, Fogs etc bzw "Generc Conventionals" für Dimmer, Blinder etc
 * "Selected Fixture": Modell
@@ -48,7 +48,7 @@ Nachdem Fixture gewählt ist
     >> Auto Patch
 
 dann öffnet sich folgendes Fenster:
-![auto](Pics/5_autoPatch.png)
+![auto](Pics/5_autoPatch.PNG)
 
 * "Type": gerade ausgewählte Fixture
 * "Name": Name zum Wiedererkennen
