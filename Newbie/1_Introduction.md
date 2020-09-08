@@ -31,7 +31,7 @@ höchster DMX wert wird gesendet | der zuletzt geämderte DMX wert wird gesendet
 <br><br>
 
 
-> Programmer: speichert alle aktiven Attribute und Scheinwerfer die ausgewählt wurden. Attribute die im Programmer gespeichert werden, werden an Schweinwerfer gesendet, egal welceh Cuelisten aktiv sind. <br> Mit der Record Taste (<code>CTR-R</code>) werden Werte aus dem Programmer recorded <br> Mit der Clear Taste (<code>CTRL-DEL</code>) werden alle Attribute aus dem Programmer gelöscht 
+> Programmer: speichert alle aktiven Attribute und Scheinwerfer die ausgewählt wurden. Attribute die im Programmer gespeichert werden, werden an Schweinwerfer gesendet, egal welceh Cuelisten aktiv sind. <br> Mit der Record Taste (<code>CTR-R</code>) werden Werte aus dem Programmer recorded <br> Mit der Clear Taste (<code>CTRL-DEL</code> mehrmals drücken) werden alle Attribute aus dem Programmer gelöscht 
  
 
 
