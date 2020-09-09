@@ -26,7 +26,9 @@ höchster DMX wert wird gesendet | der zuletzt geämderte DMX wert wird gesendet
 
 
 
+## Tracking
 
+Onyx arbeitet als tracking Konsole. Das heißt das in der theorie nur DMX veränderungen gespeichert werden. Der Output einer Cue ist eine Zusammenfassung aller Werte bzw Veränderungen aus der gleichen Cuelist. Dabei ist es egal wann diese Veränderung getroffen wurde.
 
 
 > Programmer: speichert alle aktiven Attribute und Scheinwerfer die ausgewählt wurden. Attribute die im Programmer gespeichert werden, werden an Schweinwerfer gesendet, egal welceh Cuelisten aktiv sind. <br> Mit der Record Taste (<code>CTR-R</code>) werden Werte aus dem Programmer recorded <br> Mit der Clear Taste (<code>CTRL-DEL</code> mehrmals drücken) werden alle Attribute aus dem Programmer gelöscht 
