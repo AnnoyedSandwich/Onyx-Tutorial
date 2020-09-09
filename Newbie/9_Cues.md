@@ -18,7 +18,7 @@ Strenggenommen ist es egal an welchen Ort man eine Cue recorded da die Kontrollm
 
 jetzt sind die Attribute im Programmer gespeichert.  Da immer ALLES aus dem Programmer auf einmal als eine Cue recorded wird macht es am Anfang Sin zu kontrollieren was man überhaupt recorded. Dafür in der Sidebar den Programmer-View auswählen.
 
- ![Programmer](F:\GitHub Onyx\Onyx-Tutorial\Newbie\Pics\9_Programmer.PNG)
+ ![Programmer](Pics\9_Programmer.PNG)
 
 Die hellblau hinterlegten Felder zeigen die Namen der angewendeten Presets, die dunkelblau hinterlegten Felder die tatsächlichen Werte.
 
