@@ -2,8 +2,7 @@
 
 
 
-#
-<br>
+
 
 ## Workflow
 
@@ -17,7 +16,7 @@
 
 2. Gruppen bzw Scheinwerfer auswählen, Presets anwenden/mit **Encodern** FX etc erstellen. Werte aus dem Programmer in **Cuelisten** recorden
 
-#
+
 ## LTP vs HTP
 
 HTP | LTP
@@ -25,14 +24,13 @@ HTP | LTP
 highest takes precednece | latest takes precedence
 höchster DMX wert wird gesendet | der zuletzt geämderte DMX wert wird gesendet
 
-#
 
-<br>
-<br><br>
+
+
 
 
 > Programmer: speichert alle aktiven Attribute und Scheinwerfer die ausgewählt wurden. Attribute die im Programmer gespeichert werden, werden an Schweinwerfer gesendet, egal welceh Cuelisten aktiv sind. <br> Mit der Record Taste (<code>CTR-R</code>) werden Werte aus dem Programmer recorded <br> Mit der Clear Taste (<code>CTRL-DEL</code> mehrmals drücken) werden alle Attribute aus dem Programmer gelöscht 
- 
+
 
 
 >Presets: Bausteine die schnelleres erstellen von Cues erlauben. Presets werden immer für alle zur Zeit ausgewählten Scheinwerfer angewendet. Jedes Preset speichert jeweils immer nur eine Information, also eine Farbe, eine Intensität etc. und sind auch unter diesen Kategorien separiert. 
@@ -40,4 +38,3 @@ höchster DMX wert wird gesendet | der zuletzt geämderte DMX wert wird gesendet
 
 >Cuelisten: "Ordner" die von einer oder mehreren Cues gefüllt sind.
 
-#
