@@ -2,13 +2,13 @@
 ## Fixture Center
 Im Fixture Center können einzelne Fixtures, automatische Gruppen oder selbsterstellte Gruppen jederzeit ausgewähl werden
 ![FC](Pics/FixtureCenter.PNG)
+
 * Groups: selbsterstellte Groups werden dargestellt
 * Masks: Teile einer Gruppe werden ausgewält. Zwischen den einzelnen Teilen aknn mit den `Last` und `Next` tasten auf dem Keypad gewechselt werden
 * Auto: von Onyx automatsich erstellte Gruppen nach Fixture Typ
 * Fixtures: Alle gepatchten Fixtures
 * Selected: alle zur Zeit ausgewählten Fixtures
 
-#
 ## Groups 
 Groups vereinfachen das Auswählen von mehreren Fixtures. 
 Wichtig: eine Fixture kann mehreren Groups zugeordnet werden.
@@ -19,7 +19,7 @@ Fixture Groups können entweder direkt im Fixture Center (im Groups Tab) recorde
 >Die globale Farbe für Group Windows ist blau
 
 (Die Einstellungen am oberen Rand des Groups- Fenster sind die funktional gleich zu denen im 2D-Plan)
-#
+
 ## Presets
 Um das ertellen von Cuelisten zu beschleunigen erstellt man zuerst Presets. 
 
@@ -43,7 +43,7 @@ eine erfolgreich erstellte Gruppe sieht so aus:
 
 verschiedene Gruppen und Presets:
 ![RG](Pics/8_GroupsReady.PNG)
-#
+
 ## Gruppen und Presets benutzen:
 
     >> Group(s) auswählen >> passende Presets auswählen >> die im Preset recordeden Presets wurden auf Die Groups(s) angewendet
@@ -70,5 +70,5 @@ dann komm eine Conflict Message:
   * Replace: neue Werte ersetzten die Alten
   * Edit Command: den Befehlt verändern
   * Cancel Command: den Befehlt abbrechen
-  
+
 #

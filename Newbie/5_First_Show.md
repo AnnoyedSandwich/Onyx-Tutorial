@@ -65,7 +65,7 @@ Danach auf
     >> "Apply to Patch"
 
 drücken. Dann sind die Fixtures gepatched
-#
+
 
 >BUG: Manchmal hat Onyx ein Lizenz Bug. Dann ist hinter jeder Fixture ein kleines Schloss und am Rand steht " You exceeded the amount of supportet universes. Chech your license or adjust the patch. Das einfachste ist dann Onyx neu zu starten. 
 >Dieser Bug tritt nur beim starten auf, nicht wärend einer Show

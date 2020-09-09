@@ -18,7 +18,7 @@ Wenn nicht folgende Möglichkeiten:
 * Onyx neustarten
 
 
-#
+
 
 ## Netzwerk DMX Geräte (sACN & ArtNet)
 
@@ -36,7 +36,7 @@ dann
 
     >> Apply
 
-#
+
 ### Für sACN:
 
     >> EtherDMX >> sACN
@@ -57,7 +57,7 @@ danach
 
     >> Apply
 
-#
+
 ### Für ArtNet:
 
     >> EtherDMX >> ArtNet
@@ -81,7 +81,7 @@ Die Override Einstellungen können erstmal ignoriert werden.
 Wenn das ArtNet Gerät AutoDiscovery Unterstützt findet man dieses unter Devices. Dort können unteranderem die Universen die an das Gerät gesendet werden ausgewählt werden. benutzt man nur ein ArtNet Gerät sind solche Einstelungen aber nicht nötig und werden hier nicht behandelt.
 
 Unterstützt das Gerät nicht AutoDiscovery müssen die passenden Einstellungen am Gerät selber getroffen werden. (Im Falle von Enttec in der Node Managment Utility).
-#
+
 
 Sind alle Einstellungen getroffen 
 

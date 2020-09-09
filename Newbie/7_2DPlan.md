@@ -23,7 +23,7 @@ Rechts Oben
 Unten
 * Page x: auswahl zwischen verschieden Seiten
 
-#
+
 ## Im Edit Mode
 
 ![Edit](Pics/7_2DEdit.PNG)
@@ -61,4 +61,5 @@ Unten:
 2. Danach wieder in den Live Modus wechseln 
 
 Das benutzen des 2D Plans ist komplett Optional. Am Anfang hilft die graphische Visualisation aber für komplexe Bewegungen braucht man 3D Software wie Capture 
+
  ##### <sub>(Chris soll Lizenz von Capure kaufen)</sub>

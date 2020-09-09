@@ -44,11 +44,11 @@ View auswahl. Alle (auch selber erstellte Views) lassen sich links finden und k�
 
   * Pfeil: öffnet Channel Visualization. GUI um Attribute zu Scheinwerferfern hinzuzufügen. 
 
-<br>
+
 
 * Ganz Unten ist die Fader Bank. Die Ersten 10 pro Bank werden direkt dargestellt, auf Fader 11-20 kann man durchdoppelklicken rechts daneben zugreifen.
 Insgesamt gibt es 500 Banks
 
-#
+
 
 >Keyboard Shortcuts findet man im Ordner "Cheat Sheets"

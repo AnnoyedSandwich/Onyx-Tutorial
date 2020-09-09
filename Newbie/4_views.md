@@ -2,8 +2,7 @@
 
 ### Onyx besteht aus Worksapces, Views und Windows. In jedem wokrspace befinden sich Windows und Views. 
 ### Selber erstellete Views bestehen aus Windows die man frei anordnen kann.
-#
-<br>
+
 
 ## Views und Windows
 
@@ -42,7 +41,7 @@ Beispiel
 ![Custom](Pics/4_customView.png)
 
 Alle wichtigen Fenster zum erstellen von Cuelisten wurden zu einen View hinzugefügt
-#
+
 ## Workspaces
 
 Verschieden Views können zu "Ordnern" zusammengefasst werden, diese werden Wokspaces genannt. Onyx kommt standartmäßig mit folgenden:
@@ -62,7 +61,7 @@ Um einen neuen Workspace zu erstellen:
 Unter *Manage Workspaces* können Einstellungen zu bestehenden Workspaces getroffen werden.
 
 Ob man Workspaces benutzen will bleibt jedem selber Überlassen
-#
+
 ## Function Keys
 
 Function Keys findet man eig nur auf den richtigen Konsolen. Man kann aber auch die F-Tasten benutzen.
@@ -74,10 +73,10 @@ Um die Funktion der F-Tasten bzw. der Function Keys einzustellen:
 ![F-Keys](Pics/4_fKeys.png)
 
 Man kann alle möglichen Commands, Views, Gruppen etc zuweisen. Einfach Ausprobieren was und ob man das braucht.
-#
+
 
 Nach dem Editieren von Views etc. den Workspace wieder locken
 
     >> "Monitor Icon" >> Lock Workspace
 
-#
+
