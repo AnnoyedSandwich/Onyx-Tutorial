@@ -1,2 +1,2 @@
 # Onyx-Tutorial
-### Documents to teach and look up facts about Elations Ony
+Beginner Anleitung für die die komplett lost sind. Außerdem nen bisschen advanced shit und so. 
