@@ -55,7 +55,7 @@ Ist ein Preset ausgegraut enthält es nicht anwendbare Attribute die ausgewählt
 Das Preset BAR Strobe 100 (setzt den Strobe Effect von LEDBars auf 100%) lässt sich offensichtlich nicht auf Stufenlinsen anwenden. 
 
 ## Wichtig! Attribute aus Presets werden nur auf die ausgewählten Groups angewendet. Auch wenn das Preset für viel mehr Groups erstellt wurde 
-#
+
 ## Groups und Presets bearbeiten
 
 Mit den Funktionen `Copy`, `Move` und `Delete` auf dem Keypad können Groups/Presets verschoben etc werden. 

@@ -14,8 +14,9 @@ Onyx Symbol: Öffnet den General Tab, darin sind:
 * Fixture Control
 
 Monitor Icon: Workspaces editieren und erstellen
-Show/Hide Button: Um Side Views zu verstecken
+Show/Hide Button: Um Side Bar zu verstecken
 GM und FM: Grandmaster und Flashmaster
+
 * Grandmaster, Master fader 
 * Flashmaster, Fader für flashbuttons
 
