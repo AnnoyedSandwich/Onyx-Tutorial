@@ -1,7 +1,8 @@
 # Views/Windows
 
-### Onyx besteht aus Worksapces, Views und Windows. In jedem wokrspace befinden sich Windows und Views. 
-### Selber erstellete Views bestehen aus Windows die man frei anordnen kann.
+Onyx besteht aus Worksapces, Views und Windows. In jedem wokrspace befinden sich Windows und Views. 
+
+Selber erstellete Views bestehen aus Windows die man frei anordnen kann.
 
 
 ## Views und Windows
@@ -70,7 +71,7 @@ Um die Funktion der F-Tasten bzw. der Function Keys einzustellen:
 
     >> "Monitor Icon" >> "Onyx Menu" >> Funtions
 
-![F-Keys](Pics/4_fKeys.png)
+![F-Keys](Pics/4_fKeys.PNG)
 
 Man kann alle möglichen Commands, Views, Gruppen etc zuweisen. Einfach Ausprobieren was und ob man das braucht.
 

@@ -21,7 +21,7 @@ Fixture Groups können entweder direkt im Fixture Center (im Groups Tab) recorde
 (Die Einstellungen am oberen Rand des Groups- Fenster sind die funktional gleich zu denen im 2D-Plan)
 
 ## Presets
-Um das ertellen von Cuelisten zu beschleunigen erstellt man zuerst Presets. 
+Um das erstellen von Cuelisten zu beschleunigen erstellt man zuerst Presets. Presets können Fixture, Timing, und Delay Attribute speichern. Am häufigsten (und für den Anfang am relevantesten) sind aber Presets mit Fixture Attribute. 
 
 Es gibt verschiedene Preset Typen:
 * Intensity (Weiß)
@@ -32,17 +32,18 @@ Es gibt verschiedene Preset Typen:
 * Beam Fx (Blau)
 * Framing (Lila)
 
- für unsere Fixtures sind nur Intensity, PanTilt und Color wichtig. Jedes Preset kann nur die Informationen passend zum Preset speichern. Ein Intensity Preset kann keine Pan Tilt Attribute beinhalten. Presets sollten immer für alle Gruppen gleichzeitig erstellt werden (sofern Sinnvol)
+ für unsere Fixtures sind nur Intensity, PanTilt und Color wichtig. Jedes Preset kann nur die Informationen passend zum Preset speichern. Ein Intensity Preset kann keine Pan Tilt Attribute beinhalten. Presets sollten immer für alle Gruppen gleichzeitig erstellt werden (sofern Sinnvoll). 
 
-Intensity Preset erstellen (für die andere typen gelich):
+Intensity Preset erstellen (für die andere typen gleich):
 
     >> eine oder mehrere Groups auswählen >> Channel Visualization öffnen >> Links Intensity auswählen >> Output: DMX Wert (in %) festlegen >> Record >> Auf freies Feld im Intensity Tab klicken >> Name vergeben >> Enter
 
 eine erfolgreich erstellte Gruppe sieht so aus:
 ![1G](Pics/8_1Gruppe.PNG)
 
-verschiedene Gruppen und Presets:
-![RG](Pics/8_GroupsReady.PNG)
+verschiedene Gruppen und Presets:![RG](Pics/8_GroupsReady.PNG)
+
+Wie man bei den Color Presets sieht kann man Presets auch Color coden. Dafür auf das Zahnrad rechts neben den Presets drücken. Damit die Farben auch gespeichert werden, immer dran denken auch den View erneut zu speichern.
 
 ## Gruppen und Presets benutzen:
 
@@ -54,7 +55,9 @@ Ist ein Preset ausgegraut enthält es nicht anwendbare Attribute die ausgewählt
 
 Das Preset BAR Strobe 100 (setzt den Strobe Effect von LEDBars auf 100%) lässt sich offensichtlich nicht auf Stufenlinsen anwenden. 
 
-## Wichtig! Attribute aus Presets werden nur auf die ausgewählten Groups angewendet. Auch wenn das Preset für viel mehr Groups erstellt wurde 
+## Wichtig! Attribute aus Presets werden nur auf die ausgewählten Groups angewendet. Auch wenn das Preset für viel mehr Groups erstellt wurde. 
+
+## Wichitg! Wenn man ein Preset in verschieden Cues benutzt und danach das Preset updated können die Cues die dieses Preset beinhalten auch automatisch geupdated werden.
 
 ## Groups und Presets bearbeiten
 
