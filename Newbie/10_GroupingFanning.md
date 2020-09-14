@@ -18,7 +18,7 @@ Das Grouping Tool zu benutzen ist sehr einfach:
 
 Aufgrund der Einfachheit macht es Sin sich verschiedene Kombinationen der Modifier auszuprobieren. Je mehr man es benutzt desto mehr Usecases findet man.
 
-![Grouping](Pics/10_grouping.PNG)
+![Grouping](Pics/10_grouping.png)
 
 ### Mode
 
