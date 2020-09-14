@@ -18,7 +18,7 @@ Das Grouping Tool zu benutzen ist sehr einfach:
 
 Aufgrund der Einfachheit macht es Sin sich verschiedene Kombinationen der Modifier auszuprobieren. Je mehr man es benutzt desto mehr Usecases findet man.
 
-![Grouping](Pics/10_grouping.PNG)
+![Grouping](Pics/10_Grouping.PNG)
 
 ### Mode
 
@@ -60,6 +60,6 @@ Um noch mehr Zeit zu sparen können auch vorgefertigte Mode und Mask Value Kombi
 
 Wichtig: Genauso wie die Reihenfolge der ausgewählten Fixtures in Groups recorded wird können Masks recorded werden. Im Onyx Manual werden diese fast Select genannt. Fast Select Groups hbaen recht oben in der ecke jeweils einen Buchstaben und eine Zahl. Der Buchstabe sthet hierbei für den Mode, die Zahl für den Mask Value
 
-![FastSelect](Pics/10_fastSelect.PNG)
+![FastSelect](Pics/10_FastSelect.PNG)
 
 In diesem Beispiel wurde der `MIRROR` Mode und ein Mask Value von 4 gewählt.
