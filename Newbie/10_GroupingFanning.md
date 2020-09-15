@@ -63,3 +63,29 @@ Wichtig: Genauso wie die Reihenfolge der ausgewählten Fixtures in Groups record
 ![FastSelect](Pics/10_FastSelect.PNG)
 
 In diesem Beispiel wurde der `MIRROR` Mode und ein Mask Value von 4 gewählt.
+
+### Fanning
+
+Fanning beduetet jeder ausgewählten Fixture einen anderen Attributwert geben. Dabei wählt man den Wert für die erste Fixture und den Wert für die letzte Fixcture. Es werden dann automatisch Werte auf die dazwischenliegenden Fixtures verteilt. Diese Zwischenwerte werden durch die Linie die die beiden Punkte verbident repesentiert
+
+Um ein Attribut über iene Gruppe von Fixtures zu "fannen":
+
+```
+>> Fixtures auswählen >> Channel Visualization öffnen >> bei einem Attribut Fanning auswählen
+```
+
+![Fanning](Pics/10_Fanning.PNG)
+
+Um ein Attribut zu fannen muss dieses erst ausgewählt werden. Es können nicht mherere Attribute gleichzeitig gefanned werden.
+
+Über der Fanning Visualization sind 4 Knöpfe die je zwischen 2 Optionn wechseln
+
+![FanSettings](Pics/10_FanningSettings.PNG)
+
+| default Option | Erklärhung                                                   | Alternativoption | Erklähurng                                                   |
+| -------------- | ------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ |
+| `MIRROR`       | der `FIRST` und `LAST ` point spiegeln sich antlang den Achsen | `SEPERATE`       | Ermöglicht es den `FIRST` und `LAST ` point seperat zu ändern |
+| `2-POINT`      | erlaubt die änderng der Werte der ersten und letzte Fixture  | `3-POINT`        | Fügt einen dritten Pubnkt in der Mitte hinzu. DIeser hat keinen Einfluss auf die `FIRST` und `LAST ` points |
+| `CURVE`        | Die Punkte werden mit einer Kurve verbudne.                  | `LINEAR`         | Die Punkte werden alle direkt mitienadner Verbunden          |
+| `CLEAR`        | Setzt alle Werte auf 0 zurück                                | `CLEAR`          | Setzt alle Werte auf 0 zurück                                |
+
