@@ -70,3 +70,52 @@ In diesem Fenster sieht man was alles in der grade ausgewählten bzw. grade aktu
 
 Move in Black (in Onyx MARK genannt) bedeute das Onyx manche Attributs Änderungen automatisch vornimmt. Zum Beispiel kann eine Pan Tilt Position erreicht werden noch bevor die Scheinwerfer angehen. Um MARK zu benutzen muss in der Cuelist ein Intensity Wert recorded sein. Dieser kann auch getracked sein. Sobald der Intensity Wert 0% hat wird das MARK ausgeführt.
 
+#### Beispiel für die MARk Funktion:
+
+Zuerst wird eine Cuelist mit drei Cues recorded. 
+
+In Cue 1 befinden sich folgende Werte:![MARK1](Pics/12_MARK1.PNG)
+
+Cue 2 sieht so aus:							   ![MARK2](Pics/12_MARK2.PNG)
+
+Und in Cue 3 diese Werte: ![MARK3](Pics/12_MARK3.PNG)
+
+Analog zu den Werten in Cue 1 würde Cue 1 auf der Stage so aussehen: ![MARK1C](Pics/12_MARK1C.PNG)
+
+Wenn Cue 2 gestarted wird sieht diese auf der Bühne so aus: 
+
+![MARK2.1C](Pics/12_MARK2.1C.PNG)
+
+Betrachten wir Cue 2 allerdings im 2D Plan sehen wir allerdings das die Farbe und die Position von Cue 3 bereits eingenommen wurden. ![MARK2.2C](Pics/12_MARK2.2C.PNG)
+
+Dadurch gibt es keinen Fade der Pan Tilt Werte der manchmal nicht gewollt sein kann.
+
+Sobald Cue 3 gestartet wird faden die Intensity Werte ein und wir haben den Stage Look erreicht ohne einen Sweep der Position.
+
+![MARK3C](Pics/12_MARK3C.PNG)
+
+## WICHTIG: Fixtures deren Intensity Wert NuLL ist werden nicht gemarked
+
+Die mark Funktion verändert keine Cuelist Values und kann jederzeit an und wieder ausgeschaltet werden.
+
+Es gibt zwei Arten von MARK: Mark per Cuelist und Mark per Cue. 
+
+#### Mark per Cuelist 
+
+Mark per Cuelist bedeuted das Onyx alle Cues innerhalb einer Cuelist versucht zu marken. Um Mark per Cuelist zu aktivieren:
+
+```
+>> Cuelist Options der entsprechenden Cuelist öffnen >> Unter Tracking "MARK per Cuelist" auswählen
+```
+
+Wenn erfolgreich steht im Cuelist Values Fenster "MARK per Cuelist" unter dem Namens-Feld. Danach muss die Cuelist noch einmal released werden um die neuen Änderungen zu aktivieren.
+
+#### Mark per Cue
+
+Bei Mark per Cue kann man selber auswählen welche Cues innerhalb einer Cueliste gemarked werden sollen. Dafür:
+
+```
+>> Cuelist Options der entsprechenden Cuelist öffnen >> Unter Tracking "MARK per Cue" auswählen
+```
+
+Danach im Cuelist Values View eine Cue auswählen und auf `MARK TOGGLE` drücken. Ein Rotes M steht dann neben der Cue. 
