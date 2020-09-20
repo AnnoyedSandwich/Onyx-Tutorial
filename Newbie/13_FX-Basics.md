@@ -1,0 +1,7 @@
+# FX Basics
+
+Es gibt im Grunde drei Arten von FX, Intensity FX, Pan/Tilt FX und FX Macros. Streng genommen kann man mit den FX Parametern auch Farbeffekte erstellen allerdings sind diese in Onyx kompliziert. Um Farbeffekte effizient zu erstellen benötigt man Dylos (ab Onyx Version 4.4.xxxx). Im Prinzip kann man aber für jede Attributsgruppe einen FX erstellen.
+
+Jeder FX besteht aus einer Baseline, einem Swing Value, einem Speed Value und einem Mode. Die einzige kleine Ausnahme sind Pan/Tilt FX, diese haben jeweils eine Pan Swing und einen Tilt Swing. Der Baseline Wert ist der Wert von dem der FX immer startet. Swing wird in Prozent angegeben und ist die Modulation nach oben oder unten des Baseline Wertes. Speed ist die Geschwindigkeit (Prozentual abhängig von der BPM zahl). Der Mode ist die Richtung und Art und Weise auf die der Swing Wert angewendet wird (Der Multiplier Wert bezieht sich auf die Geschwindigkeit des FX).
+
+Der Baseline Wert kann in der Cue in der der FX recorded wird gespeichert sein, kann aber auch getracked werden. Onyx ermöglicht es auch den Baseline Wert über andere Cuelisten festzulegen was mehr Flexibilität ermöglicht. Außerdem ist es möglich die FX Parameter bei der Erstellung unrecoreded zu lasen und diese stattdessen in Overrides zu speichern. In diesem Abschnitt geht es allerdings nur um die Basics, 

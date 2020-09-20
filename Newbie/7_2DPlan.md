@@ -37,7 +37,6 @@ Unten:
 * Add: Um neue Pages hinzuzufügen
 * "Pfeil Links"&"Pfeil Rechts": reihenfolge der Pages ändern
 * Rename/Copy/Delete: Bearbeitung von ausgewählter Page
-#
 ### Eine Fixture bzw mehrere zum 2D Plan hinzufügen:
 1. In den Edit Modus wechseln
 
@@ -47,7 +46,7 @@ Unten:
    * Select Type to add:
      * Fixture: hinzufügne von einfachen Fixtures
      * Combined Fixture: Fixture wie LED-Bars hinzufügen (optional)
-     * Groups: andere Möglichkeit (automatisch) erstellte Gruppen von Fixtures direkt hinzuzufügen
+     * Groups: Einen Shortcut, um eine ganze Gruppe auszuwählen, hinzufügen 
      * Objects: geometrische Formen hinzufügen um eine Sage nachzubilden
     * Add Mode
       * einzelne Fixture
@@ -56,7 +55,7 @@ Unten:
       * Fixtures als kreis hinzufügen
       * Fixtures als Grid hinzufügen
     * Mirror 
-      * wenn auf On, die Möglichkeit Fixtures entlan der vertikale, der Horizontale oder eine selber gemahlten Linie zu spiegeln
+      * wenn auf On, die Möglichkeit Fixtures entlang der vertikale, der Horizontale oder eine selber gemalten Linie zu spiegeln
 1. wenn Auswahl getroffen wurde auf Place Fixture(s) drücken und hinzufügen
 2. Danach wieder in den Live Modus wechseln 
 
