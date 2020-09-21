@@ -104,6 +104,8 @@ Möchte man einen FX beenden, reicht es eine Cue zu recorden in der der Swing We
 
 Man kann diesen FX "stomp" entweder als Cuelist oder als Override recorden. Als Cuelist funktioniert er als Knopf der sobald er betätigt wurde den FX stoppt (Als Errinerung, der Cuelist Fader hat nur Einfluss auf die Intensity). Als Override bekommt man nicht nur die Möglichkeit den FX zu stoppen, man kann auch seinen Swing zur reduzieren was einem eine weiter Möglichkeit der Kontrolle gibt. Diese Stomps gibt es auch als Presets unter FX Makros (Sie tragen die Namen: Dimmer Off, PT Off, CMY RGB Off, Iris Off)
 
+![FXStop](Pics/13_FXStop.PNG)
+
 #### FX speichern
 
 Am natürlichsten erschient es einen FX als Cuelist zu speichern. Man drückt auf Go und der FX faded ein. Eine andere option wäre wieder der Override. Asl Override kann man mit dem Fader alle FX Attrinute steuern. Ein P/T FX mit 50% des Override Fader hat entsprechedn 50% weniger Swing und ist 50% langsamer. Auch das bedeutet mehr Flexibilät. Am ende kommt es allerdings darauf an um was es sich für eine FX handelt und wie man ihn benutzen möchte.
