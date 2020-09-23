@@ -69,4 +69,36 @@ alle gerade laufende Cuelists lassen sich mit dem Active Cuelsits Window anzeige
 
 Die Knöpfe am oberen Rand haben die gleiche Funktion wie die der Playback Buttons. 
 
-Am unteren Rand gibt es die möglichkeit die laufenden Cuelists 
+Am unteren Rand gibt es die möglichkeit die laufenden Cuelists nach Art zu filtern. 
+
+Es empfiehlt sich das Active Cuelist Window immer griffbereit zu haben. Bei vielen cuelists kann es schnell passieren das man den Überblick verliert und ausersehen eine Cuelist an ist die gar nicht an sein sollte. Über dieses Window lassen sich solche Fehler schnell beheben. 
+
+### Beat Editor
+
+Der Beat Editor erlaubt es (solange Global Rate aktiviert wurde) einen BPM Wert festzulegen mit dem man die Geschwindigkeit aller Chase Steps bestimmt. Der Beat Editor ist als Sidebar Function Key verfügbar
+
+![BPM](Pics/14_BPM.PNG)
+
+| Button                    | Erklährung                                                   |
+| ------------------------- | ------------------------------------------------------------ |
+| ![BPM1](Pics/14_BPM1.PNG) | halbiert die aktuelle PM Zahl                                |
+| ![BPM1](Pics/14_BPM2.PNG) | Zieht vom aktuellen BPM Wert ab.                             |
+| ![BPM1](Pics/14_BPM3.PNG) | Die aktuelle BPM Zahl                                        |
+| ![BPM1](Pics/14_BPM4.PNG) | Fügt zum aktuellen MP Wert dazu                              |
+| ![BPM1](Pics/14_BPM5.PNG) | verdoppelt die aktuelle BPM Zahl                             |
+| ![BPM1](Pics/14_BPM6.PNG) | (nur verfügbar in der main toolbar) wenn gedrückt öffnet sich ein neues Menu in dem alle gelinkten Cuelists gezeigt werden |
+| ![BPM1](Pics/14_BPM7.PNG) | durch mehrmaliges tippen des BPM Buttons wird die BPM Zahl festgelegt |
+| ![BPM1](Pics/14_BPM8.PNG) | Beat Fader, zum einstellen des BPM Wertes                    |
+
+​     
+
+### Fader Banks als Views
+
+Wir haben bereits über die Playback Buttons gesprochen und in welchem Umfang man sie einsetzen sollte. Allerdings sind die Playback Buttons nicht der einzige View der während des Live Playbacks relevant ist. 
+
+2 weitere wichtige Windows sind das Playback Module und das Submaster Module.
+
+![Playback](Pics/14_Playback.PNG)
+
+Das Playback Window ist eine Nachahmung von Onyx Hardware und kann/sollte vor allen Dingen dann benutz werden wenn keine Hardware zur Verfügung steht. Die 10 fader korrespondieren zu den 10 Main Playback Fadern, die 10 Knöpfe auf der rechten Seite zu den Cuelisten die auf den Fader 11-20 liegen. Die 5 Knöpfe undter den Bank Switches haben (zur Zeit) keine Funktion
+

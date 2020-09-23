@@ -22,7 +22,7 @@ Wenn nicht folgende Möglichkeiten:
 
 ## Netzwerk DMX Geräte (sACN & ArtNet)
 
-##### unterschied zwischen sACN und ArtNet ist anderswo erklährt
+##### unterschied zwischen sACN und ArtNet ist online erklährt
 
     >> Onyx Menu >> Menu >> Settings (Network Tab) >> Interfaces (im unteren Menu)
 
@@ -76,7 +76,7 @@ Im Tab Discovery
 
 Im Normalfall wird Unicast to detected Devices empfohlen. Allerdings wird nicht jedes ArtNet Gerät von Onyx als solches erkannt. Wenn also Unicast to detected Devices nichts bringt und sonts alle Eisntellungen richtig sind auf Full Broadcast wechseln.
 
-Die Override Einstellungen können erstmal ignoriert werden.
+Die Override Einstellungen können erstmal ignoriert werden. Kurzgesagt, wenn eingestellt kann man Unicast damit faken sollte das Art-Net Gerät kein auto-discovery unterstützen
 
 Wenn das ArtNet Gerät AutoDiscovery Unterstützt findet man dieses unter Devices. Dort können unteranderem die Universen die an das Gerät gesendet werden ausgewählt werden. benutzt man nur ein ArtNet Gerät sind solche Einstelungen aber nicht nötig und werden hier nicht behandelt.
 
@@ -87,4 +87,4 @@ Sind alle Einstellungen getroffen
 
     >> Apply
 
->Es ist unbekannt ob Enttec Open DMX Auto Discovery Unterstüzt. Erklärung zu den richtigen NMU Einstellungen folgen.
+>Es ist unbekannt ob Enttec Open DMX Auto Discovery unterstüzt (oder am worken ist). Erklärung zu den richtigen NMU Einstellungen folgen.
