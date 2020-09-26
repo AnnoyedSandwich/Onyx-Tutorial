@@ -86,7 +86,7 @@ Wenn Cue 2 gestarted wird sieht diese auf der Bühne so aus:
 
 ![MARK2.1C](Pics/12_MARK2.1C.PNG)
 
-Betrachten wir Cue 2 allerdings im 2D Plan sehen wir allerdings das die Farbe und die Position von Cue 3 bereits eingenommen wurden. ![MARK2.2C](Pics/12_MARK2.2C.PNG)
+Betrachten wir Cue 2 allerdings im 2D Plan sehen wir das die Farbe und die Position von Cue 3 bereits eingenommen wurden. ![MARK2.2C](Pics/12_MARK2.2C.PNG)
 
 Dadurch gibt es keinen Fade der Pan Tilt Werte der manchmal nicht gewollt sein kann.
 

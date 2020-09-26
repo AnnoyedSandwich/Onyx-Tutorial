@@ -2,7 +2,7 @@
 
 Die Playback Möglichkeiten für eine Show hängen stark von den Hardware Möglichkeiten ab. Am Anfang beschränkt sich diese Sektion nur auf Software Playback bzw auf Software Playback in Verbindung mit einem MIDI Controller. Sollte in Zukunft Onyx Hardware zur Verfügung stehen werde ich diese Abschnitt für die Entsprechende Hardware updaten. 
 
-Das meiste hier besprochene sind nur Tipps bzw die Art und Weise wie ich es mache. Meine Art eine Show zu mache ist natürlich auch stark davon beeinflusst wie ich ein Showfile erstelle. Hat jemadn eine anderen Style ein Showfile zu erstellen ist es auch wahrscheinlich das er auch andere Entscheidungen bei den Playback Möglichkeiten trifft. Ich empfehle es jedem verschieden Sachen auszuprobieren. 
+(Sobald das NX-Touch da ist wird hier der Playback hier erklährt. )
 
 ### Playback Grundlagen
 

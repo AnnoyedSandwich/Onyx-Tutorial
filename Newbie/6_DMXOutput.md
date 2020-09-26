@@ -86,5 +86,3 @@ Unterstützt das Gerät nicht AutoDiscovery müssen die passenden Einstellungen 
 Sind alle Einstellungen getroffen 
 
     >> Apply
-
->Es ist unbekannt ob Enttec Open DMX Auto Discovery unterstüzt (oder am worken ist). Erklärung zu den richtigen NMU Einstellungen folgen.

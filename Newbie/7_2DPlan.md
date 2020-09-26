@@ -23,6 +23,10 @@ Rechts Oben
 Unten
 * Page x: auswahl zwischen verschieden Seiten
 
+![2DDyLOS](Pics/7_2DDyLOS.PNG)
+
+Der untere Teil des 2D Plans gehört zu den DyLOS Funktionen, können für den Anfang also ignoriert werden. Wer möchte kann dieses Window auch löschen
+
 
 ## Im Edit Mode
 
@@ -61,4 +65,3 @@ Unten:
 
 Das benutzen des 2D Plans ist komplett Optional. Am Anfang hilft die graphische Visualisation aber für komplexe Bewegungen braucht man 3D Software wie Capture 
 
- ##### <sub>(Chris soll Lizenz von Capure kaufen)</sub>
