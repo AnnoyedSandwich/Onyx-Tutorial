@@ -1,6 +1,6 @@
 # DMX Output
 ## USB DMX Geräte 
-###### (das von Pierre-Luca)
+###### (Vers 4.2.xxxx)
 
     >> Onyx Menu >> Menu >> DMX Settings
 
@@ -21,8 +21,6 @@ Wenn nicht folgende Möglichkeiten:
 
 
 ## Netzwerk DMX Geräte (sACN & ArtNet)
-
-##### unterschied zwischen sACN und ArtNet ist online erklährt
 
     >> Onyx Menu >> Menu >> Settings (Network Tab) >> Interfaces (im unteren Menu)
 
@@ -86,3 +84,9 @@ Unterstützt das Gerät nicht AutoDiscovery müssen die passenden Einstellungen 
 Sind alle Einstellungen getroffen 
 
     >> Apply
+
+### NMU für Enttec
+
+NMU oder Node Managment Utility ist die Software um Enttec Art-Net Geräte zu konfigurieren, Auch wenn es nicht dirket was mit Onyx zu tun hat macht es Sinn sich damit vertrautm zu machen für den Fall das etwas nicht funktioniert.
+
+NMU bietet die Möglichkeit den Namen, die IP Adresse, Subnet und Universe und die Refresh Rate zu bestimmen. Außerdem kann man den Mode von DMX Input zu Output ändern. 
