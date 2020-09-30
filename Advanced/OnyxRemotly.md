@@ -50,6 +50,53 @@ In der App selber kann man Fixtures auswählen, Presets auswählen, Parameter ve
 
 ### Onyx Master Slave
 
+Es ist möglich mehrere PC's mit Onyx oder Konsolen miteinander über das Netzwerk zu verbinden. Dabei wird das Onyx eigene X-Net Protokoll verwendet und die Konsolenlaufen in einer Master Slave Konfiguration.
 
+Die Master Konsole ist dabei für den DMX Output und für das speichern der Showdaten verantwortlich. Trotzdem werden die Date zwischen allen Konsolen synchronisiert und jede Konsole hat die gleiche Priorität was Playback angeht. Folgende Daten werden synchronisiert:
 
-### TouchOSC
+- Cue und Preset Data
+- Playback Data
+- Programmer Data
+- Patch Data
+- X-Net chat
+- Workspace Data
+
+Ein Vorteil von der Master Slave Konfiguration über andere Arten des Remote Playbacks ist das es möglich ist den DMXOutput zu wechseln sollte die Master Konsole Probleme haben. Findet der Output über DMX statt oder ist nur eine Konsole an ein Art-Net/sACN Node angeschlossen reicht ein simples wechseln der Kabel. 
+
+Praktischer ist es allerdings wenn der DMX Output nur über Art-Net läuft und beide Konsolen im gleichen Netzwerk sind wie das Node. Damit es nicht zu Fehlern kommt muss zuerst Art-Net/sACN in den Netzwerkeinstelllungen der Slave Konsole ausgeschaltet sein.
+
+Sollte ein Output Switch erforderlich sein reicht es Art-Net/sACN an der Master Konsole auszuschalten und an der Slave Konsole anzuschalten. 
+
+##### Wie mit einer anderen Konsole Verbinden?
+
+Zuerst sicherstellen das sich beide Konsolen im gleichen Netzwerk befinden. Dann folgende Schritte bei der Slave Konsole befolgen
+
+```
+>> (Art-Net/sACN ausschalten) >> Onyx Menu >> Network Settings >> Shows >> der zu joinenden Schow auswählen >> Join >> Yes
+```
+
+Danach werden alle vorher genannten Daten zwischen den beiden Konsolen synchronisiert.
+
+Von der Master Konsole aus gibt es außerdem die Möglichkeit die Slave Konsole als neuen Master festzulegen. Das ist besonders Praktisch wenn ein Neustart erforderlich ist. Vorher sollte man allerdings den DMX/Art-Net/sACN Output wechseln. 
+
+Außerdem kann man an der Master Konsole dafür sorgen das Slave Konsole die Show verlassen 
+
+### (Touch)OSC
+
+OSC - Open Sound Control - ist eine weitere Möglichkeit für Remote Playback. Dabei kann man sich OSCwie Network MIDI vorstellen (mit dieser Idee wurde es auch konzipiert). Allerdings mit dem Nachteil das OSC nicht standartisiert ist wie MIDI. 
+
+##### Wichtig! in der roten FREE Lizenz (also ohne angeschlossenes NX-Touch) sind OSC Inputs delayed. Die einzige Ausnahme ist das Keypad und die Encoder
+
+Die beliebteste App für OSC ist TouchOSC (Android und IOS), theoretisch ist es auch möglich andere Apps zu benutzen allerdings habe ich damit keine Erfahrung.
+
+##### Onyx Konfiguration
+
+1. unter den Network Settings die IP-Adresse auf Automatic stellen und für das richtige Interface OSC erlauben (ToucOSC funktioniert nicht mit Art-Net zusammen)
+2. Unter Network >> OSC die Port Data auf 08000 lassen und für das entsprechende Interface OSC erlauben![OSC1](Pics/Remote_OSC1.PNG) 
+3. Unter Devices ein gerät anschalten und einen Namen festlegen. Device SPACE bei 000 lassen
+4. Danach die IP Adresse des OSC Gerätes eingeben. Wenn man TouchOSC benutz findet man diese unter "OSC" oder "Configuration"
+5. Überprüfen ob die Port Nummern übereinstimmen. Bei touchOSC sollte die PORT (outgoing) Nummer 8000 sein und die Port (incomming) Nummer gleich der Port Nummer in den Onyx Einstellungen sein ![Remote2](Pics/Remote_OSC2.PNG) 
+
+Jetzt kann TouchOSC benutzt werden
+
+##### Tablet/Handy Konfiguration

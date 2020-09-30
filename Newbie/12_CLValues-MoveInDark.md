@@ -119,3 +119,12 @@ Bei Mark per Cue kann man selber auswählen welche Cues innerhalb einer Cueliste
 ```
 
 Danach im Cuelist Values View eine Cue auswählen und auf `MARK TOGGLE` drücken. Ein Rotes M steht dann neben der Cue. 
+
+### MARK Fade Time
+
+Die Fade Time des MARK ist per Default 2 sec und es wird 0.2 sec gewartet bevor MARK beginnt. Im Gegensatz zu anderen Fade Times lässt sich diese einerseits nur global festlegen und andererseits nur in den Einstellungen. Dafür:
+
+```
+>> Onyx Menu >> Cue Settings >> Mark Cue >> Änderungen machen >> Apply
+```
+
