@@ -90,3 +90,7 @@ Sind alle Einstellungen getroffen
 NMU oder Node Managment Utility ist die Software um Enttec Art-Net Geräte zu konfigurieren, Auch wenn es nicht dirket was mit Onyx zu tun hat macht es Sinn sich damit vertrautm zu machen für den Fall das etwas nicht funktioniert.
 
 NMU bietet die Möglichkeit den Namen, die IP Adresse, Subnet und Universe und die Refresh Rate zu bestimmen. Außerdem kann man den Mode von DMX Input zu Output ändern. 
+
+### Onyx Capture Demo
+
+Capture benötigt für den Output sACN Data. Um das Capture File mit Ony zu verbinden, sACN für die ersten 4 Interfaces anschalten.
