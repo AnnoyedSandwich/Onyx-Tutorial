@@ -1,1 +1,0 @@
-#  Pixelmapping mit Dylos
