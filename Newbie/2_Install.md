@@ -19,6 +19,4 @@ Dylos Factory Content: Obsidian stellt eine große Datei mit Pixelmapping Conten
 
 Onyx Capture Demo: Zu übungszwecken gibt es eine Demo Show inklusive Capture Programm. Für die meisten Übungen werden wir das benutzen genauso wie für die Hausaufgaben. Also bitte herunterladen.
 
-#
-
 Sollte es irgndwelche Probleme geben, mich bitte Privat anschreiben

@@ -100,3 +100,8 @@ Die beliebteste App für OSC ist TouchOSC (Android und IOS), theoretisch ist es 
 Jetzt kann TouchOSC benutzt werden
 
 ##### Tablet/Handy Konfiguration
+
+Zuerst muss das Onyx Layout heruntergeladen und installiert werden. Das Layout gibt es [hier](https://files.obsidiancontrol.com/s/b7gYqqYSgdk3d7d). Alternativ kann man mit dem ToucOSC Editor auch sein eigenes Layout erstellen. 
+
+Danach auf dem Handy die Host-IP Adresse eingeben (die der Konsole), sowie die Ports die man vorher festgelegt hat. Danach sollte alles funktionieren 
+

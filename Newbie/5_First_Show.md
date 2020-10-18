@@ -25,13 +25,13 @@ allternativ
 Danach öffnet sich folgendes Fenster:
 ![new](Pics/5_newFixture.PNG)
 
-* "selected Manufacturer*: alle Möglichen Hersteller, außerdem "Generic" für LED PARs, Fogs etc bzw "Generc Conventionals" für Dimmer, Blinder etc
+* "selected Manufacturer: alle Möglichen Hersteller, außerdem "Generic" für LED PARs, Fogs etc bzw "Generic Conventionals" für Dimmer, Blinder etc
 * "Selected Fixture": Modell
-* "Fixture Settings": verschiedene Einstellungen wie die anzahl an Channels (Stairvill MH-100 haben Wahl zwischen 9 und 14 Channel Mode)
+* "Fixture Settings": verschiedene Einstellungen wie die Anzahl an Channels (Stairville MH-100 haben Wahl zwischen 9 und 14 Channel Mode)
 * "DMX Profile": Die Reihenfolge der Funktionen der ausgewählten Fixture
 
 ###### (manchmal gibt es bei "Fixture Settings" auch die Option Virtueller Dimmer: 
-###### manche meist LED-Pars bestehen haben keinen dedizierten Dimmer Channel. Damit die Dimmer Funktionen bzw Dimmer FX genutzt werdne können gibt es den virtuellen Dimmer. Den eig immer aktivieren, schaden tut er fast nie)
+###### manche meist LED-Pars bestehen haben keinen dedizierten Dimmer Channel. Damit die Dimmer Funktionen bzw Dimmer FX genutzt werdne können gibt es den virtuellen Dimmer. Den eig. immer aktivieren, schaden tut er fast nie)
 
 <br>
 
@@ -39,9 +39,9 @@ Untere Leiste
 
 * "Patched Types": bereits gepatche Fixtures zum nochmal patchen
 * "History": alle jemals aufn diesem PC/Konsole je gepatchden Fixtures
-* "Sandart Library": die standart Bibliothek an Fixture Porfiles
-* "User Library": alle selber erstelleten bzw importieren Fixture Profiles 
-* "Search": um nach bestimmten Fixtures zu suchen (ist relativ broken)
+* "Standard Library": die Standard Bibliothek an Fixture Profiles
+* "User Library": alle selber erstellten bzw importieren Fixture Profiles 
+* "Search": um nach bestimmten Fixtures zu suchen
 
 Nachdem Fixture gewählt ist 
 
