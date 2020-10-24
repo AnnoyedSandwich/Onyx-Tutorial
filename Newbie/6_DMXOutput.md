@@ -19,8 +19,9 @@ Wenn nicht folgende Möglichkeiten:
 
 
 
-
 ## Netzwerk DMX Geräte (sACN & ArtNet)
+
+Diese Anleitung gilt nur für Version 4.4.1193. In der neuen Beta wurde das EtherDMX Fenster überarbeitet. Sobald ein fertiger Release da ist werde ich mich darum kümmern das zu überarbeiten.
 
     >> Onyx Menu >> Menu >> Settings (Network Tab) >> Interfaces (im unteren Menu)
 
