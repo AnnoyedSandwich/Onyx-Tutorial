@@ -73,3 +73,7 @@ dann komm eine Conflict Message:
   * Replace: neue Werte ersetzten die Alten
   * Edit Command: den Befehlt verändern
   * Cancel Command: den Befehlt abbrechen
+
+### Highlight und Default Values
+
+Mit der Highlight Taste (`CTRL+H`) 
