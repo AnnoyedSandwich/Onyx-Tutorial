@@ -70,7 +70,7 @@ Um einer Cueliste ein MIDI Macro hinzuzufügen:
 
 Wenn ein Macro hinzugefügt wurde auf `UNDEFINED MACRO` klicken und aus dem Drop-Down Menu MIDIMACRO auswählen. dann öffnet sich folgender Bildschirm:
 
-![MIDI Event](Pics/MIDIEvent.PNG)*
+![MIDI Event](Pics/MIDIEvent.PNG)
 
 Im MIDI-IN Event Viewer kann man alles gesendeten MIDI Werte sehen. Dabei ist die neueste MIDI Nachricht immer ganz oben. 
 
@@ -92,7 +92,7 @@ Zur Erklärung der globalen MIDIMacros:
 
 Möchte man allerdings einfach nur eine Cuelist triggern muss in dem Drop Down Menu die entsprechende Aktion ausgewählt werden:
 
- ![MIDICueFunction](Pics/MIDICueFunction.PNG)*
+ ![MIDICueFunction](Pics/MIDICueFunction.PNG)
 
 Es gibt folgende Optionen:
 

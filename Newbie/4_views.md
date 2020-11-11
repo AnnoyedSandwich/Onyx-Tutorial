@@ -39,6 +39,7 @@ Nachdem View erstelle wurde speichern
 Auch wenn stock Views von Onyx nutzbar sind, eigene Views mit verschiedenen Funktionen die man parallel braucht erhöhen Workflow
 
 Beispiel
+
 ![Custom](Pics/4_customView.png)
 
 Alle wichtigen Fenster zum erstellen von Cuelisten wurden zu einen View hinzugefügt

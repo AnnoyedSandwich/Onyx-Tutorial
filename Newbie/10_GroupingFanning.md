@@ -1,7 +1,3 @@
----
-
----
-
 # Grouping Tools und Fan/Fx
 
 Das Grouping Tool ist eine einfache und effiziente Möglichkeit seine ausgewählten Fixtures in Untergruppen zu unterteilen. Das ermöglicht (auch in Verbindung mit Fan/FX) sehr interessante Stage Looks die nicht viel zeit in Anspruch nehmen. 
@@ -82,10 +78,10 @@ Um ein Attribut zu fannen muss dieses erst ausgewählt werden. Es können nicht 
 
 ![FanSettings](Pics/10_FanningSettings.PNG)
 
-| default Option | Erklärhung                                                   | Alternativoption | Erklähurng                                                   |
-| -------------- | ------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ |
-| `MIRROR`       | der `FIRST` und `LAST ` point spiegeln sich antlang den Achsen | `SEPERATE`       | Ermöglicht es den `FIRST` und `LAST ` point seperat zu ändern |
-| `2-POINT`      | erlaubt die änderng der Werte der ersten und letzte Fixture  | `3-POINT`        | Fügt einen dritten Pubnkt in der Mitte hinzu. DIeser hat keinen Einfluss auf die `FIRST` und `LAST ` points |
-| `CURVE`        | Die Punkte werden mit einer Kurve verbudne.                  | `LINEAR`         | Die Punkte werden alle direkt mitienadner Verbunden          |
-| `CLEAR`        | Setzt alle Werte auf 0 zurück                                | `CLEAR`          | Setzt alle Werte auf 0 zurück                                |
+| default Option | Erklärhung                                                   | Alternativ-option | Erklähurng                                                   |
+| -------------- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ |
+| `MIRROR`       | der `FIRST` und `LAST ` point spiegeln sich antlang den Achsen | `SEPERATE`        | Ermöglicht es den `FIRST` und `LAST ` point seperat zu ändern |
+| `2-POINT`      | erlaubt die änderng der Werte der ersten und letzte Fixture  | `3-POINT`         | Fügt einen dritten Pubnkt in der Mitte hinzu. DIeser hat keinen Einfluss auf die `FIRST` und `LAST ` points |
+| `CURVE`        | Die Punkte werden mit einer Kurve verbudne.                  | `LINEAR`          | Die Punkte werden alle direkt mitienadner Verbunden          |
+| `CLEAR`        | Setzt alle Werte auf 0 zurück                                | `CLEAR`           | Setzt alle Werte auf 0 zurück                                |
 

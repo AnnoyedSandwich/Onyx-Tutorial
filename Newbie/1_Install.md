@@ -7,9 +7,9 @@
 
 Downloads: 
 
-Vollversion: https://support.obsidiancontrol.com/Content/Support/Downloads.htm
+[Vollversion](https://support.obsidiancontrol.com/Content/Support/Downloads.htm)
 
-"Enttec USB Version": https://files.obsidiancontrol.com/s/WfCNDoEtzKpAnQF?path=%2FONYX%2FOnyx%20Software%2FArchive
+[Enttec USB Version]( https://files.obsidiancontrol.com/s/WfCNDoEtzKpAnQF?path=%2FONYX%2FOnyx%20Software%2FArchive) 
 
 Immer nur die Onyx Installer benutzen, Onyx OS ist für Firmware updates für die Konsolen.
 

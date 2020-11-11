@@ -1,6 +1,7 @@
 # Groups und Presets
 ## Fixture Center
 Im Fixture Center können einzelne Fixtures, automatische Gruppen oder selbsterstellte Gruppen jederzeit ausgewähl werden
+
 ![FC](Pics/FixtureCenter.PNG)
 
 * Groups: selbsterstellte Groups werden dargestellt
@@ -39,9 +40,12 @@ Intensity Preset erstellen (für die andere typen gleich):
     >> eine oder mehrere Groups auswählen >> Channel Visualization öffnen >> Links Intensity auswählen >> Output: DMX Wert (in %) festlegen >> Record >> Auf freies Feld im Intensity Tab klicken >> Name vergeben >> Enter
 
 eine erfolgreich erstellte Gruppe sieht so aus:
+
 ![1G](Pics/8_1Gruppe.PNG)
 
-verschiedene Gruppen und Presets:![RG](Pics/8_GroupsReady.PNG)
+verschiedene Gruppen und Presets:
+
+![RG](Pics/8_GroupsReady.PNG)
 
 Wie man bei den Color Presets sieht kann man Presets auch Color coden. Dafür auf das Zahnrad rechts neben den Presets drücken. Damit die Farben auch gespeichert werden, immer dran denken auch den View erneut zu speichern.
 
@@ -68,12 +72,10 @@ Presets oder Gruppen updaten:
     >> gleche Aktionen wie wenn neue Gruppe/Preset erstellt wird >> auf das zu updatende Feld drücken
 
 dann komm eine Conflict Message:
+
 ![Confilct](Pics/8_Conflict.PNG) 
+
   * Merge groups: Vorhandene Werte und neue Werte werden zusammengefügt
   * Replace: neue Werte ersetzten die Alten
   * Edit Command: den Befehlt verändern
   * Cancel Command: den Befehlt abbrechen
-
-### Highlight und Default Values
-
-Mit der Highlight Taste (`CTRL+H`) 

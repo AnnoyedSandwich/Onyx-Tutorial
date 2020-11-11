@@ -100,7 +100,9 @@ Unten von links nach rechts:
 
 Dylos arbeitet mit dem Source Content (dieser wurde importiert) und bietet dann die Möglichkeit diesen mit Effects zu verändern. Am ehesten kann man sich das wie Layers in Photoshop vorstellen. jede Layer legt sich über die Layer davor. Mapping und Reserved haben zur Zeit keine Funktion.
 
-Um nun Content darzustellen muss erst der Source Content ausgewählt werden. Dazu auf ![2](Pics/16_2.png) drücken. Dann öffnet sich folgendes Fenster:![Import Content](Pics/16_ImportContent.png)
+Um nun Content darzustellen muss erst der Source Content ausgewählt werden. Dazu auf ![2](Pics/16_2.png) drücken. Dann öffnet sich folgendes Fenster:
+
+![Import Content](Pics/16_ImportContent.png)
 
 Dort kann eine Datei ausgewählt werden. Zusätzlich kann die Geschwindigkeit eingestellt werden (sofern es sich um ein Video handelt (Vorsicht, je nach Video bzw. der Framerate des Videos kann es bei zu geringen Geschwindigkeiten schnell zu ruckeligen Videos kommen)). Außerdem kann man die Richtung etc. einstellen. Über die unteren Reiter gelangt man zum Effect Content. 
 
@@ -112,4 +114,5 @@ Wichtig, der Dylos Int Fader regelt nicht die Intensity der eigentlichen Fixture
 
 Ist alles richtig kann man den Dylos Effekt als ganz normale Cue speichern und auch abspielen
 
-![Gif](Pics/16_Dylos.gif)
+[Gif](Pics/16_Dylos.gif)
+

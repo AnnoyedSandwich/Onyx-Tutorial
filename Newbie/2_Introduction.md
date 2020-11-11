@@ -28,15 +28,12 @@ höchster DMX wert wird gesendet | der zuletzt geämderte DMX wert wird gesendet
 
 Onyx arbeitet als tracking Konsole. Das heißt das in der theorie nur DMX veränderungen gespeichert werden. Der Output einer Cue ist eine Zusammenfassung aller Werte bzw Veränderungen aus der gleichen Cuelist. Dabei ist es egal wann diese Veränderung getroffen wurde.
 
+### Tracking Beispiel
 
-> Programmer: speichert alle aktiven Attribute und Scheinwerfer die ausgewählt wurden. Attribute die im Programmer gespeichert werden, werden an Schweinwerfer gesendet, egal welche Cuelisten aktiv sind. 
->
->  Mit der Record Taste (<code>CTR-R</code>) werden Werte aus dem Programmer recorded 
->
->  Mit der Clear Taste (<code>CTRL-DEL</code> mehrmals drücken) werden alle Attribute aus dem Programmer gelöscht 
-
->Presets: Bausteine die schnelleres erstellen von Cues erlauben. Presets werden immer für alle zur Zeit ausgewählten Scheinwerfer angewendet. Jedes Preset speichert jeweils immer nur eine Information, also eine Farbe, eine Intensität etc. und sind auch unter diesen Kategorien separiert. 
-
-
->Cuelisten: "Ordner" die von einer oder mehreren Cues gefüllt sind.
+| Cue  | Int  | Pan     | Tilt | Red  | Green | Blue |
+| ---- | ---- | ------- | ---- | ---- | ----- | ---- |
+| 1    | 100% | 50%     | 28%  | 100% | 0%    | 0%   |
+| 2    |      |         |      | 0%   | 100%  | 100% |
+| 3    | 5%   |         |      |      |       |      |
+| 4    |      | 62%-38% | 28%  |      |       |      |
 

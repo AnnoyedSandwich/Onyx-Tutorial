@@ -74,19 +74,29 @@ Move in Black (in Onyx MARK genannt) bedeute das Onyx manche Attributs Änderung
 
 Zuerst wird eine Cuelist mit drei Cues recorded. 
 
-In Cue 1 befinden sich folgende Werte:![MARK1](Pics/12_MARK1.PNG)
+In Cue 1 befinden sich folgende Werte:
 
-Cue 2 sieht so aus:							   ![MARK2](Pics/12_MARK2.PNG)
+![MARK1](Pics/12_MARK1.PNG)
 
-Und in Cue 3 diese Werte: ![MARK3](Pics/12_MARK3.PNG)
+Cue 2 sieht so aus:
 
-Analog zu den Werten in Cue 1 würde Cue 1 auf der Stage so aussehen: ![MARK1C](Pics/12_MARK1C.PNG)
+​							   ![MARK2](Pics/12_MARK2.PNG)
+
+Und in Cue 3 diese Werte: 
+
+![MARK3](Pics/12_MARK3.PNG)
+
+Analog zu den Werten in Cue 1 würde Cue 1 auf der Stage so aussehen: 
+
+![MARK1C](Pics/12_MARK1C.PNG)
 
 Wenn Cue 2 gestarted wird sieht diese auf der Bühne so aus: 
 
 ![MARK2.1C](Pics/12_MARK2.1C.PNG)
 
-Betrachten wir Cue 2 allerdings im 2D Plan sehen wir das die Farbe und die Position von Cue 3 bereits eingenommen wurden. ![MARK2.2C](Pics/12_MARK2.2C.PNG)
+Betrachten wir Cue 2 allerdings im 2D Plan sehen wir das die Farbe und die Position von Cue 3 bereits eingenommen wurden. 
+
+![MARK2.2C](Pics/12_MARK2.2C.PNG)
 
 Dadurch gibt es keinen Fade der Pan Tilt Werte der manchmal nicht gewollt sein kann.
 
